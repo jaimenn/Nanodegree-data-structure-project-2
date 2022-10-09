@@ -8,6 +8,7 @@
 #In intersection func is same as before. I take two linked list and iterate all nodes of linked lists nodes and add values to set1 and set2 respectively. O(n)
 and find intersection set of sets as inter_set.
 O(n).
+
 #convert inter_set to list and sort with sorted()
 #O(nlogn).
 #iterate the list and append all elements to a linked list. O(n^2)
